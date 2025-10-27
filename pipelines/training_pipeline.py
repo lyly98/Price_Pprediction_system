@@ -19,7 +19,7 @@ def ml_pipeline():
 
     # Data Ingestion Step
     raw_data = data_ingestion_step(
-        file_path="/Users/ayushsingh/Desktop/end-to-end-production-grade-projects/prices-predictor-system/data/archive.zip"
+        file_path="/home/ai_sodira/price_prediction/Price_Pprediction_system/data/archive.zip"
     )
 
     # Handling Missing Values Step
